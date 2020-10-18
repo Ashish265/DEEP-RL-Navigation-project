@@ -61,7 +61,7 @@ Running this agent will result in scores from -2 to 2.
 
 ##### &nbsp;
 
-### 3. Implement Learning Algorithm
+### 3. Implement Deep Q-Learning Algorithm
 
 ![DQN](./images/DQN.png)
 
