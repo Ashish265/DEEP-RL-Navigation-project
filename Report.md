@@ -20,7 +20,7 @@ The steps in building an agent that solves this environment.
 1. Establish baseline using a random action policy.
 1. Implement learning algorithm.
 1. Run experiments to measure agent performance.
-1. Select best performing agent.
+
 
 ##### &nbsp;
 
@@ -56,7 +56,7 @@ while True:
 print("Score: {}".format(score))
 ```
 
-Running this agent a few times resulted in scores from -2 to 2. Obviously, if the agent needs to achieve an average score of 13 over 100 consecutive episodes, then choosing actions at random won't work.
+Running this agent will result in scores from -2 to 2. 
 
 
 ##### &nbsp;
