@@ -3,7 +3,9 @@
 ##### &nbsp;
 
 ## Goal
-The project objective is to build a reinforcement learning (RL) agent that navigates an environment that is similar to [Unity's Banana Collector environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector).
+The project objective is to build a reinforcement learning (RL) agent to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas.
+
+
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. 
 
