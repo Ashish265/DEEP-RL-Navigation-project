@@ -108,7 +108,7 @@ Also, experience replay improves learning through repetition. By doing multiple 
 
 ## Training the Network
 
-![episode](./images/episodes.png)
+![episode](./images/episodes.PNG)
 
 ![Training](./images/Training_image.png)
 
