@@ -2,7 +2,7 @@
 
 ##### &nbsp;
 
-## project objective
+## Project objective
 The project objective is to build a reinforcement learning (RL) agent to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas.
 
  ![Environment](./images/navigation.gif)
