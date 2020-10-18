@@ -1,5 +1,4 @@
-#### Udacity Deep Reinforcement Learning Nanodegree
-### Project 1: Navigation
+# Project 1: Navigation
 
 ##### &nbsp;
 
