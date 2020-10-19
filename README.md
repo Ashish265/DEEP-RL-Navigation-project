@@ -51,4 +51,4 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Training the agent
 
-Run the Navigation.ipynb file to train the agent. model.py contains neural network class used as a Q function and the file dqn_agent.py contains agent code.
+Run the Navigation.ipynb file to train the agent. The python file model.py contains neural network class used as a Q function and the python file dqn_agent.py contains agent code.
